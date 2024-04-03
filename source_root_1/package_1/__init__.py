@@ -1,0 +1,1 @@
+from package_1.sub_package_1.submodule_1 import submodule_1_hello
