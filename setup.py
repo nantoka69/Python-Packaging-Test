@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages, find_namespace_packages
 
 setup(
-    name='python-packaging-complex',
+    name='nantoka-python-packaging-complex',
     version='1.1.0',
     packages=find_packages('source_root_1') + find_namespace_packages('source_root_2'),
     package_dir={
